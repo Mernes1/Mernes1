@@ -1,16 +1,22 @@
-## Hi there 👋
+## Opa, bão? Bem-vindos ao meu perfil 😄
 
-<!--
-**Mernes1/Mernes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel Rocha
 
-Here are some ideas to get you started:
+Sou **estudante** e estou interessado saber mais sobre:
+- Programação;
+- Desenvolvimento de Software;
+- Desenvolvimento de Jogos;
+- Desenvolvimento de Aplicativos;
+- FrontEnd;
+- BackEnd;
+- JavaScript;
+- CSS;
+- C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também gosto de outras coisas como:
+- Músicas - MPB, Pop, Rock, Samba, ap, HIp-Hop, Reggae e muitos outros!;
+- Livros - Fantasia, Ficção, Aventura, Suspense;
+- Animes - Gosto de diversos tipos menos ecchi ou qualquer coisa parecida;
+- Séries - Supernatural, Peaky Blinders e Grimm são meus faforitos!;
+- Jogos - Gosto FPS, Metroidvania, Plataforma, Estratégia, Puzzle, Tower Defense entre outros;
+- E por fim... EU AMO MINHA NAMORADA - MARY SILVA ❤💜❤
